@@ -20,6 +20,7 @@
 |------|-----------|-----------|
 | Лекция 1. Intro | 08.09.2026 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-01/main.html) |
 | Семинар 1 | 08.09.26 20:00 | [invite]() |
+| Лекция 2. Fundamentals | 15.09.2026 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-02/main.html), [slides-2](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-02/main2.html) |
 
 
 ## ⚠️ Задания и дедлайны
