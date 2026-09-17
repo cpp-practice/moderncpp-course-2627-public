@@ -12,7 +12,8 @@
 ## 🚀 Quick links
 - 📘 **Кодекс чести**: [code-of-conduct.md](https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/docs/code-of-conduct.md)
 - 👤 **Регистрационная форма**: [*google form*](https://forms.gle/mePWE2Wg5ijdD4E39)
-- 📑 **Главная ведомость**: TBD
+- 📑 **Главная ведомость**: [*google sheet*](https://docs.google.com/spreadsheets/d/16pozBp0nSsERww1wY599g937XV6vHJ-N_FIpcKhOXM0/edit?gid=0#gid=0)
+    - Доступ осуществляется через [гугл-группу](https://groups.google.com/g/moderncpp_students_fall2026)
 
 ## 📅 Расписание
 
