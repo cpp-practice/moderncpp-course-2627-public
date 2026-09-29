@@ -25,6 +25,8 @@
 | Семинар 2 | 15.09.26 20:00 |  |
 | Лекция 3. References. Heap. | 22.09.2026 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-03/main.html) |
 | Семинар 3 | 22.09.26 20:00 |  |
+| Лекция 4. References. Heap. | 29.09.2026 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-04/main.html) |
+| Семинар 4 | 29.09.26 20:00 |  |
 
 
 ## ⚠️ Задания и дедлайны
