@@ -31,7 +31,7 @@ see [about_cls.md](/docs/about_activities/about_cls.md)
 
 ### Контрольные работы
 
-see [about_control.md](/docs/about_activities/about_contol.md)
+see [about_control.md](/docs/about_activities/about_control.md)
 
 ### Большие домашние задания
 
