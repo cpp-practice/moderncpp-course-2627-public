@@ -49,4 +49,5 @@
 | sem01-cls03 | 29.09.26 18:30 | check email |
 | 2026-ha1 | 02.10.26 23:59, 11.10.26 23:59, 19.10.26 23:59 | check email |
 | sem01-cls04 | 06.10.26 18:30 | check email |
+| sem01-cls05 | 20.10.26 18:30 | check email |
 
