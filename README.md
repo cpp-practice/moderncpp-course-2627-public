@@ -32,7 +32,7 @@
 | Семинар 5 | 13.10.26 18:30 | |
 | Лекция 6. Classes-2 | 20.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-06/main.html) |
 | Семинар 6 | 20.10.26 18:30 | |
-| Лекция 7 | 27.10.26 18:30 | |
+| Лекция 7. Classes-3 | 27.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-07/main.html) |
 | Семинар 7 | 27.10.26 18:30 | |
 | КР 2 | XX.11.26 XX:XX | |
 
