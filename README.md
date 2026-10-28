@@ -29,11 +29,12 @@
 | Семинар 4 | 29.09.26 20:00 |  |
 | КР 1 | 06.10.26 18:30 | |
 | Лекция 5. Classes | 13.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-05/main.html) |
-| Семинар 5 | 13.10.26 18:30 | |
+| Семинар 5 | 13.10.26 20:00 | |
 | Лекция 6. Classes-2 | 20.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-06/main.html) |
-| Семинар 6 | 20.10.26 18:30 | |
+| Семинар 6 | 20.10.26 20:00 | |
 | Лекция 7. Classes-3 | 27.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-07/main.html) |
-| Семинар 7 | 27.10.26 18:30 | |
+| Лекция 8. Classes-3 II | XX.11.26 XX:XX | |
+| Семинар 7 | XX.11.26 XX:XX | |
 | КР 2 | XX.11.26 XX:XX | |
 
 
@@ -50,4 +51,5 @@
 | 2026-ha1 | 02.10.26 23:59, 11.10.26 23:59, 19.10.26 23:59 | check email |
 | sem01-cls04 | 06.10.26 18:30 | check email |
 | sem01-cls05 | 20.10.26 18:30 | check email |
+| sem01-cls06 | 27.10.26 18:30 | check email |
 
