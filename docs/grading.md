@@ -70,7 +70,16 @@ see [about_control.md](/docs/about_activities/about_control.md)
 
 Оценка за основные активности: `activities = AVG(дорешки, контрольные, большие дз) - Lp`
 
-Итоговая оценка: `MIN(5, AVG(activities, exam))`
+Итоговая оценка: `grade = MIN(5, AVG(activities, exam))`
+
+Перевод в пятибальную систему:
+
+```
+(       grade < 2.5) => 2
+(2.5 <= grade < 3.5) => 3
+(3.5 <= grade < 4.5) => 4
+(4.5 <= grade      ) => 5
+```
 
 # Обозначения
 
