@@ -34,7 +34,7 @@
 | Семинар 6 | 20.10.26 20:00 | |
 | Лекция 7. Classes-3 | 27.10.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-07/main.html) |
 | Лекция 8. Classes-3 II | 17.11.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2627-public/blob/main/semester-01/lec-01-08/main.html) |
-| Семинар 7 | 17.11.26 20:00 | |
+| Семинар 7 | 17.11.26 20:00 | [godbolt1](https://godbolt.org/z/qc6ds9Mzj), [gb2](https://godbolt.org/z/MMM4WfTWe), [gb3](https://godbolt.org/z/G6qd8avET) |
 | КР 2 | XX.11.26 XX:XX | |
 
 
@@ -52,4 +52,5 @@
 | sem01-cls04 | 06.10.26 18:30 | check email |
 | sem01-cls05 | 20.10.26 18:30 | check email |
 | sem01-cls06 | 27.10.26 18:30 | check email |
+| sem01-cls07 | 24.11.26 18:30 | check email |
 
