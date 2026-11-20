@@ -37,7 +37,7 @@
 | Семинар 7 | 17.11.26 20:00 | [godbolt1](https://godbolt.org/z/qc6ds9Mzj), [gb2](https://godbolt.org/z/MMM4WfTWe), [gb3](https://godbolt.org/z/G6qd8avET) |
 | КР 2 | XX.11.26 XX:XX | |
 
-
+    
 
 ## ⚠️ Задания и дедлайны
 
